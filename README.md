@@ -1,3 +1,3 @@
 # Devops
 
-This is Devps tutorial .
+This is DevOps tutorial .
